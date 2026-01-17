@@ -1,0 +1,6 @@
+baseURL = 'https://velanora.github.io/'
+languageCode = 'en-us'
+title = 'Velanora'
+theme = 'PaperMod'
+
+

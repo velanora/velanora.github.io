@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Velanora</title>
+    <link>https://velanora.github.io/posts/</link>
+    <description>Recent content in Posts on Velanora</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jan 2026 02:25:48 +0500</lastBuildDate>
+    <atom:link href="https://velanora.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post Alert!</title>
+      <link>https://velanora.github.io/posts/first/</link>
+      <pubDate>Fri, 16 Jan 2026 02:25:48 +0500</pubDate>
+      <guid>https://velanora.github.io/posts/first/</guid>
+      <description>&lt;h3 id=&#34;-welcome-to-velanora-blogs-&#34;&gt;🚀 Welcome to VELANORA blogs! ✨&lt;/h3&gt;
+&lt;p&gt;This is my &lt;strong&gt;very first post&lt;/strong&gt; on my own website.&lt;!-- raw HTML omitted --&gt;
+I&amp;rsquo;ll will be sharing my &lt;strong&gt;blogs&lt;/strong&gt;here using &lt;strong&gt;hugo&lt;/strong&gt; and the &lt;strong&gt;PaperMod&lt;/strong&gt; theme. ✨&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
