@@ -2,6 +2,9 @@
 date = '2026-01-18T18:46:44+05:00'
 draft = false
 title = 'How to Use Git and GitHub from the Command Line on Ubuntu'
+
+description= "A beginner guide to using Git and GitHub on Ubuntu via command line, including installation, setup, creating repositories, committing changes, and pushing code."
+showToc = true
 categories= [ "Git & Github"]
 tags = ["git","github", "git-commands", "version-control", "Beginner-guide","Tutorial"]
 +++
