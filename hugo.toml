@@ -3,4 +3,32 @@ languageCode = 'en-us'
 title = 'Velanora'
 theme = 'PaperMod'
 
+[[params.socialIcons]]
+name = "Github"
+url= "https://github.com/velanora"
+
+
+[[params.socialIcons]]
+name = "Linkedin"
+url= "https://www.linkedin.com/in/syeda-areej-e-fatima/"
+
+[params.profileMode]
+enabled = true
+title = "Syeda Areej E Fatima"
+subtitle = "Smiley Face 😊"
+
+  [[params.profileMode.buttons]]
+  name = "About Me"
+  url = "/about"
+
+  [[params.profileMode.buttons]]
+  name = "My Dev Diary"
+  url = "/posts"
+
+    
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Dev Diary"
+    url        = "/posts"
+
 
