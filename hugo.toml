@@ -15,7 +15,7 @@ url= "https://www.linkedin.com/in/syeda-areej-e-fatima/"
 [params.profileMode]
 enabled = true
 title = "Syeda Areej E Fatima"
-subtitle = "Smiley Face 😊"
+subtitle = "Bytes, Bugs and Blogs 💻"
 imageTitle = "Profile Pic"
 imageUrl = "/images/pfp1.jpg"
 imageWidth = 250
