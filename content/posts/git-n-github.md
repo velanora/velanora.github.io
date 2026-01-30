@@ -42,7 +42,7 @@ git --version
 
 If there is a output shown like this given below then you have successfully installed git.
 
-![git version](/images/git-n-github1.png)
+![git version](/images/git-n-github/git-n-github1.png)
 
 
 
@@ -73,7 +73,7 @@ git config --global user.email "your@email.com"
 
 
 **Output:**
-![configuring git](/images/git-n-github2.png)
+![configuring git](/images/git-n-github/git-n-github2.png)
 
 After that you can check your git configurations that are currently set on your system. Run the given command in your terminal.
 
@@ -84,7 +84,7 @@ git config --list
 
 
 **Output:**
-![configure list](/images/git-n-github3.png)
+![configure list](/images/git-n-github/git-n-github3.png)
 
 
 
@@ -100,7 +100,7 @@ Create your GitHub account at by simply sign in our sign up your account in the 
 
 
 I am writing the code on text editor you can use VS code or any other
-![example file](/images/git-n-github4.png)
+![example file](/images/git-n-github/git-n-github4.png)
 
     
     
@@ -108,7 +108,7 @@ I am writing the code on text editor you can use VS code or any other
 ## Step 5: Creating a repository on Github:
 
 Open your Github account and click on the new repository. I am naming it my-first-code.
-   ![creating repository on github](/images/git-n-github5.png)
+   ![creating repository on github](/images/git-n-github/git-n-github5.png)
  
     
     
@@ -127,7 +127,7 @@ cd folder-name
 
 
 **Example:**
-![path](/images/git-n-github6.png)
+![path](/images/git-n-github/git-n-github6.png)
 
 
 
@@ -160,7 +160,7 @@ git commit -m "Intial commit msg"
 **Output:**
 
 
-![commit msg](/images/git-n-github7.png)
+![commit msg](/images/git-n-github/git-n-github7.png)
 
 
 
@@ -177,7 +177,7 @@ Open your git repository . Click the option Code. There you will see a https lin
 git remote add origin "https link"
 ```
 
-![my-first-project](/images/git-n-github8.png)
+![my-first-project](/images/git-n-github/git-n-github8.png)
 
 - ###  git push -u origin main
 
@@ -196,14 +196,14 @@ After that it asks for the username , so enter your github account’s Username.
 - Over here Select Tokens (classic) And generate a new token.
 
 
-![generating a token key](/images/git-n-github9.png)
+![generating a token key](/images/git-n-github/git-n-github9.png)
 
 
 
 - Then a token will be displayed on your screen copy it and paste it in terminal when it requires the password. Remember when you will paste the token , it won’t be shown on the terminal you just need to click Enter.
 
 
-![pushing to github repo](/images/git-n-github10.png)
+![pushing to github repo](/images/git-n-github/git-n-github10.png)
 
 
 

@@ -6,7 +6,7 @@ showToc = true
 description = 'Build and launch a blazing-fast static website using Hugo. Learn what Hugo is, why it’s popular, and how to create, customize, and deploy a site to GitHub Pages in minutes.'
 +++
 
-![hugo logo](/images/hugologo.png)
+![hugo logo](/images/hugo-guide/hugologo.png)
 # What is hugo?
 Hugo is a **static site generator** used to build websites and blogs. **Static** means files are prebuilt. **Static site generator** is a tool, it takes simple Markdown files and turns them into a proper complete site that can be launched.
 
@@ -83,7 +83,7 @@ hugo new site site-name
 ```
 cd new-site
 ```
-![create new site](/images/hugo-guide1.png)
+![create new site](/images/hugo-guide/hugo-guide1.png)
 
 
 ## Step 3: Theme setup and enabling:
@@ -101,7 +101,7 @@ git submodule add github-url-to-theme themes/theme-name
 ```
 git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
 ```
-![setting the theme](/images/hugo-guide2.png)
+![setting the theme](/images/hugo-guide/hugo-guide2.png)
 4.  Commit these changes with a appropriate commit message.
 ```
 git commit -m "themes: Add PaperMod"
@@ -123,7 +123,7 @@ hugo new posts/first.md
 2. Stuff this post with your content by simply opening the first.md file with text editor or any other.
 
 3. Save the content.
-![first post](/images/hugo-guide3.png)
+![first post](/images/hugo-guide/hugo-guide3.png)
 
 
 ## Step 5: Preview the site locally:
@@ -190,7 +190,7 @@ git push -u origin master
 
 
 
-![setup Github repo](/images/hugo-guide5.png)
+![setup Github repo](/images/hugo-guide/hugo-guide5.png)
 
 
 
@@ -200,9 +200,9 @@ git push -u origin master
 1. Now, switch to the "Actions Tab".
 2. Click the option "New workflow".
 3. Search for "hugo", configure that file.
-![configure](/images/hugo-guide6.png)
+![configure](/images/hugo-guide/hugo-guide6.png)
 4. Update the hugo version to the latest version.
-![version update](/images/hugo-guide7.jpeg)
+![version update](/images/hugo-guide/hugo-guide7.jpeg)
 In my case,
 ```
 env:
@@ -236,7 +236,7 @@ baseURL = 'https://velanora.github.io'
 
 
 
-![update blogs URL](/images/hugo-guide8.png)
+![update blogs URL](/images/hugo-guide/hugo-guide8.png)
 
 ---
 

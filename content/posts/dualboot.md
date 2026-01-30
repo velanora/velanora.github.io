@@ -30,7 +30,7 @@ Click the link below to download Ubuntu 24.04 version . Also save the ISO file t
 https://ubuntu.com/download/desktop
 
 
- ![Download Ubuntu ISo 24.04](/images/dualboot5.png)
+ ![Download Ubuntu ISo 24.04](/images/dualboot/dualboot5.png)
 
 
 ### Step 2: Create a Bootable USB
@@ -42,7 +42,7 @@ https://rufus.ie/en
 then scroll down and click the latest release link as you can see in the picture below.
 
 
-![Rufus](/images/dualboot2.jpeg)
+![Rufus](/images/dualboot/dualboot2.jpeg)
 
 
 
@@ -58,7 +58,7 @@ Now open this download and select
 
 5. Then select the option Write in ISO image
      
-     ![Rufus](/images/dualboot3.jpeg)
+     ![Rufus](/images/dualboot/dualboot3.jpeg)
      
 
 ### Step 3: Create unallocated space
@@ -118,7 +118,7 @@ here you can choose how much space you want to shrink ( Recommended at least 90 
     click the restart option and unplug the USB
     
     
-    ![installation image](/images/dualboot4.png)
+    ![installation image](/images/dualboot/dualboot4.png)
     
     
 

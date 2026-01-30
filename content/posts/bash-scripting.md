@@ -31,7 +31,7 @@ nano myfile.sh
 
 Now write what you want. In my case, i want to display Hello world! and the path of that script. A screenshot of my script is given below.
 
-![content of first script](/images/bash-scripting1.png)
+![content of first script](/images/bash-scripting/bash-scripting1.png)
 
 
 ### 1- How to make a bash script executable:
@@ -55,7 +55,7 @@ Then, after making a bash script executable , run it by using the command given 
 ./filename.sh
 ```
 
-![writing and running a bash script](/images/bash-scripting2.png)
+![writing and running a bash script](/images//bash-scriptingbash-scripting2.png)
 
 ## 4. Working with Bash scripts:
 ### 1- Declaring a Variable
@@ -65,14 +65,14 @@ In bash scripting, there is a format to store a value in variable. And when you 
 ```
 variablename ="value"
 ```
-![declaring a variable](/images/bash-scripting3.png)
+![declaring a variable](/images/bash-scripting/bash-scripting3.png)
 **Output:**
-![output of declaring a variable](/images/bash-scripting4.png)
+![output of declaring a variable](/images/bash-scripting/bash-scripting4.png)
 
 ### 2- Taking Input from the User
 
 You will take input from the user by using the keyword read.
-![taking input](/images/bash-scripting5.png)
+![taking input](/images/bash-scripting/bash-scripting5.png)
 
 ### 3- Comments in Bash
 You can add comments in your script file. By using # at the start of each line.
@@ -81,22 +81,22 @@ You can add comments in your script file. By using # at the start of each line.
 
 You can use conditional statements in bash scripting too. I have used If else , you can even use if-elif-else
 
-![if-else statement](/images/bash-scripting6.png)
-![it's output](/images/bash-scripting7.png)
+![if-else statement](/images/bash-scripting/bash-scripting6.png)
+![it's output](/images/bash-scripting/bash-scripting7.png)
 
 ### 5- Using Loops
 
 like a programming language , you can use loops in bash scripting too. examples of loops are given below
 
 #### a. For loop:
-![for loop](/images/bash-scripting8.png)
+![for loop](/images/bash-scripting/bash-scripting8.png)
 **output:**
-![output](/images/bash-scripting9.png)
+![output](/images/bash-scripting/bash-scripting9.png)
 
 #### b. While loop:
-![for loop](/images/bash-scripting10.png)
+![for loop](/images/bash-scripting/bash-scripting10.png)
 **output:**
-![output](/images/bash-scripting11.png)
+![output](/images/bash-scripting/bash-scripting11.png)
 
 ## 5. Automating systems Tasks with terminal commands:
 ### 1- Update and upgrade:
@@ -105,7 +105,7 @@ like a programming language , you can use loops in bash scripting too. examples 
 sudo apt update -y
 sudo apt upgrade -y
 ```
-![update and upgrade](/images/bash-scripting12.png)
+![update and upgrade](/images/bash-scripting/bash-scripting12.png)
 
 ### 3- Remove and Clean :
 
@@ -113,7 +113,7 @@ sudo apt upgrade -y
 sudo apt autoremove -y
 sudo apt autoclean -y
 ```
-![remove and clean](/images/bash-scripting14.png)
+![remove and clean](/images/bash-scripting/bash-scripting14.png)
 
 
 ### 4- Backup a folder
@@ -127,7 +127,7 @@ SOURCE="/home/user/Documents"
 DEST="/home/user/Backup"
 cp -r "$SOURCE" "$DEST"
 ```
-![backup in bash scripting](/images/bash-scripting15.png)
+![backup in bash scripting](/images/bash-scripting/bash-scripting15.png)
 
 ## 6- Scheduling tasks
 
