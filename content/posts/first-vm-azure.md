@@ -117,7 +117,7 @@ It displays the following information about system.
 ```
 lsb_release -a
 ```
-This command the given information about the linux distribution installed on virtual machine.
+This command gives information about the linux distribution installed on virtual machine.
 - linux distrbution (e.g ubuntu,kali).
 - Release version
 - description of the OS
