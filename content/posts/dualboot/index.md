@@ -2,7 +2,7 @@
 date = '2026-01-12T04:34:11+05:00'
 draft = false
 title = 'Dual-Boot Windows 11 pro and Ubuntu 24.04.3: Beginner’s Complete Installation Guide'
-
+featured = "featured.png"
 description= "This blog is a beginner-friendly guide to installing Ubuntu, covering the requirements and step-by-step installation process from start to finish."
 showToc = true
 tags = ["Dual-boot", "Ubuntu 24.04", "windows 11 pro", "installation guide", "Beginner","Tutorial"]

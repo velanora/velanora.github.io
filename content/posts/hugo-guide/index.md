@@ -1,12 +1,14 @@
 +++
 date = '2026-01-22T10:47:26+05:00'
 draft = false
+featured = "featured.png"
+
 title = 'Go static with hugo: Build and Launch Fast'
 showToc = true
 description = 'Build and launch a blazing-fast static website using Hugo. Learn what Hugo is, why it’s popular, and how to create, customize, and deploy a site to GitHub Pages in minutes.'
 +++
 
-![hugo logo](/images/hugo-guide/hugologo.png)
+
 # What is hugo?
 Hugo is a **static site generator** used to build websites and blogs. **Static** means files are prebuilt. **Static site generator** is a tool, it takes simple Markdown files and turns them into a proper complete site that can be launched.
 

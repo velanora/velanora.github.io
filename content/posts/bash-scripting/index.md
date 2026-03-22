@@ -2,6 +2,7 @@
 title = 'Automate Your Workflow with Bash Scripts : step-by-step with examples'
 date = '2026-01-18T21:59:25+05:00'
 draft = false
+featured = "featured.jpeg"
 
 description= "Learn Bash scripting from scratch with practical examples. This guide covers creating scripts, running them, using variables, and automating tasks."
 showToc = true
